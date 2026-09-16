@@ -1,0 +1,28 @@
+# Backend
+backend/target/
+backend/data/
+backend/.idea/
+backend/*.iml
+
+# Local H2 database files
+data/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env / secrets
+.env
+.env.local
+*.pem
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
